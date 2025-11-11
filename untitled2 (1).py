@@ -1,4 +1,4 @@
-pip install streamlit
+
 import pandas as pd
 #dt = pd.read_csv("/content/creditcard.csv", delimiter=',', on_bad_lines='skip')
 dt
